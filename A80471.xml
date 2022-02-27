@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The coppy of a letter sent by the rebells in Ireland to the Lord Dillon, to declare to his Maiestie the cause of their taking up of armes. Together with the coppy of the oath or covenant which the rebells have taken and made, which they sent to the Lord Dillon: whereunto is added a true relation how some of the rebells by treachery have got possession on of the city of Dublin. December 18. 1641.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80471</idno>
+            <idno type="STC">Wing C6137</idno>
+            <idno type="STC">Thomason E181_4</idno>
+            <idno type="STC">ESTC R1433</idno>
+            <idno type="EEBO-CITATION">99859645</idno>
+            <idno type="PROQUEST">99859645</idno>
+            <idno type="VID">111740</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80471)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111740)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The coppy of a letter sent by the rebells in Ireland to the Lord Dillon, to declare to his Maiestie the cause of their taking up of armes. Together with the coppy of the oath or covenant which the rebells have taken and made, which they sent to the Lord Dillon: whereunto is added a true relation how some of the rebells by treachery have got possession on of the city of Dublin. December 18. 1641.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Io: Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111740:1" rendition="simple:additions"/>
+            <p>THE COPPY OF A LETTER SENT BY THE REBELLS IN <hi>JRE<g ref="char:EOLhyphen"/>land</hi> to the Lord <hi>Dillon,</hi> to de<g ref="char:EOLhyphen"/>clare to his Maieſtie the cauſe of their taking up of Armes.</p>
+            <p>Together with the Coppy of the Oath or Covenant which the Rebells have taken and made, which they ſent to the Lord <hi>DILLON:</hi> whereunto is added a true Relation how ſome of the Rebells by Treachery have got poſſeſſi<g ref="char:EOLhyphen"/>on of the City of <hi>Dublin. December.</hi> 18th. 1641.</p>
+            <p>
+               <hi>London</hi> Printed for <hi>Io: Thomas.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:111740:2"/>
+            <pb facs="tcp:111740:2"/>
+            <head>A Coppy of the Re<g ref="char:EOLhyphen"/>bells Leter ſent to Lord <hi>Dillon</hi> from Sept of <hi>Ferrars.</hi>
+            </head>
+            <p>YOur Lordſhip is in intreated to imparte to his Majeſty the cauſe of our trouble and the re<g ref="char:EOLhyphen"/>dreſſe.</p>
+            <p>The Papiſts in neighbouring Counties are ſeverely puniſht: and there miſery might ſerve as a Beacon to us to look to our ſelves where our neighbours houſes are thus ſet on ſire, and wee and other Papiſts here in <hi>Ireland</hi> in former troubles have beene as Loyall ſub<g ref="char:EOLhyphen"/>jects as any in his Majeſties dominions, for manifeſta<g ref="char:EOLhyphen"/>tion wherof we ſend here incloſed an oath ſolemny ta<g ref="char:EOLhyphen"/>ken by us which as it received impreſſion in our hearts ſhall bee ſigned with our hand and ſealed with our blood.</p>
+            <p n="2">2. The Statutes of 2. <hi>Eliz.</hi> againſt us and others of our Religion doth not a little diſanimate us and the Pale.</p>
+            <p n="3">3. The avoydance of grants of our Lands and Li<g ref="char:EOLhyphen"/>berties by quirkes and quidities of law without re<g ref="char:EOLhyphen"/>flecting upon the Kings regall and reall intention for confirming our eſtate, his broade ſeale being the pawne betweene him and his people.</p>
+            <pb n="2" facs="tcp:111740:3"/>
+            <p>And we conceive and humbly preſent unto your Lordſhips conſideration, that in the beginning of this commotion as it is hereditary you will bee a bridge to purge thoſe diſeaſes in us, &amp; by our examples, doubt<g ref="char:EOLhyphen"/>leſſe it will begeet like ſucceſſe in all other parts of this Kingdome, and it will bee recorded that you are well affected to God, King, and Countrey, and a ſalver of all the forementioned ſores.</p>
+            <p>Your Lordſhip is to be an humble ſuitor on our be<g ref="char:EOLhyphen"/>haltes and of the reſt of the Papiſts, that out of the abundance of his Majeſties clemency there may bee an act of oblivion, and a generall pardon without ap<g ref="char:EOLhyphen"/>peale of Statutes formerly made to the Countrey, and not by Proclamation, but Parliamentary Charter in ample manner, and this being granted, althings elſe will follow all which wee leave to your honours care, and we will as ever we did, and doe remaine</p>
+            <closer>
+               <signed>Your Lordſhips humbe and aſſurd ever to command</signed>
+            </closer>
+         </div>
+         <div type="oath">
+            <pb facs="tcp:111740:3"/>
+            <head>The Coppy of the oath of the Rebells in in <hi>Jreland</hi> ſent to the Lord <hi>Dillon.</hi>
+            </head>
+            <p>I A.B. Doe with firme faith beleeve all and ſingu<g ref="char:EOLhyphen"/>lar the Articles which the Catholique, and Ap<g ref="char:EOLhyphen"/>ſtlique Roman Church, beleeveth and confeſſeth and to my dying day will by Gods grace maintaine, and defend the ſame faith againſt all Sectaries, Iews, Atheiſts, and enemies whatſoever with the loſſe of life, goods, and eſtate.</p>
+            <p>Secondly, I doe promiſe and in my Conſcience ſinceerly beleeve, and acknowledge King <hi>Charles</hi> to be my ſoveragine Lord and to be King of <hi>England Scotland France and Ireland</hi> whoſe previledges preroga<g ref="char:EOLhyphen"/>tives and attributes regall dye to his Imperiall Crown and Royall dignity I promiſe and vow unto God to maintaine and defend by Gods grace againſt all evill affected perſons what ſoever be they of what Country or ſect ſoever with the loſſe of life goods and eſtate.</p>
+            <p>I promiſe and vow to be trve to my poore oppreſſ<g ref="char:EOLhyphen"/>ed Country the kingdome of <hi>Ireland</hi> with loſſe of life goods and eſtate and will endevouer to free it from the bondage and greveious government vnder which it groaneth by the meanes of evill officers and Miniſt<g ref="char:EOLhyphen"/>ers contrary to his Majeſties intention.</p>
+            <pb n="4" facs="tcp:111740:4"/>
+            <p n="4">4. I promiſe and vow to God to wrong no Catholick nor Challenge any eſtate or Lands if ſo they be poſ<g ref="char:EOLhyphen"/>eſſed of it before the Plantation begunne 1610 nor any Lands poſſeſſed by aney of them ſince then ſo he or they purchaſed it for money or otherwiſe.</p>
+            <p n="5">5. I Promiſe and vow to make noe difference of or diſ<g ref="char:EOLhyphen"/>parity betwene the meere Iriſh and them of the Pale, or betwene the old Iriſh, and the new, be they of what ſtanding calling or quallity ſoever, ſo they be profeſ<g ref="char:EOLhyphen"/>ſours of the holy Church, &amp; maintainers of the coun<g ref="char:EOLhyphen"/>tryes liberty.</p>
+            <p n="6">6. All theſe and every of the Precedent Articles I the ſaid A.B. doe promiſe, vow, and ſweare, to main<g ref="char:EOLhyphen"/>taine and cauſe all others, over whom I ſhall have power to maintaine, and defend the ſame by Gods grace: So help me God and all the contents of this holy Goſpell.</p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:111740:4"/>
+            <head>A true and exact Relation, how the Rebells by Trea<g ref="char:EOLhyphen"/>chery, got poſſeſſion of <hi>Dublin.</hi>
+            </head>
+            <p>THe procedings of the Rebells in Ireland againſt the Proteſtants, have been ſo cruell and ſo bloody, that they have neither ſpared place, nor perſon, but have overrun almoſt the whole Kingdome, whereupon the cla<g ref="char:EOLhyphen"/>mour and cryes of the oppreſſed, &amp; the audacious attempts of the Papiſts being inſufferable, It was decreed upon by the Parliament held in <hi>Ireland,</hi> that preſent forces, and ayde ſhould be provided, for the defence of <hi>Dublin,</hi> which were accordingly furniſhed, and placed in that City, to the num<g ref="char:EOLhyphen"/>ber of 70. Horſe, and 200. Foot, all which were planted within the City, and were alwayes ready if occaſion ſhould have been offered to reſiſt any Rebellious power, or attempts made againſt the City, upon the 18. Of this Moneth, the Progreſſe and ſtrength of the Papiſts being conſidered, It was thought convenient and agreed upon, that the forces ſhould be doubled, for the ayd and defence of the City of <hi>Dublin;</hi> and from this ſupply of ſtrength began their miſery, for when theſe laſt forces was planted in <hi>Dublin,</hi> &amp; had got<g ref="char:EOLhyphen"/>ten ſure poſſeſſion of the City, they every man moſt trea<g ref="char:EOLhyphen"/>cherouſly revolted, and ſided with the Rebells and Papiſts, of which there were great ſtore within thoſe walles, now were the poore Proteſtants more deeply plunged then be<g ref="char:EOLhyphen"/>fore, &amp; to ſubmit were worſe then death, for the dayly Ty<g ref="char:EOLhyphen"/>rannies expreſſed to their brethren, were very faire inſtructi<g ref="char:EOLhyphen"/>ons unto them, telling them what they muſt expect at the hands of ſuch Mercyleſſe enemies, they had as ſmall hopes if they gave them battell, for the number of Papiſts do Treble the number of the Proteſtants within that City. The Rebels are hungry for their prey, and will admit no longer delay, &amp; having now gathered a ſtrong head &amp; power together, they expell firſt of all thoſe armed forces out of the City, diſar<g ref="char:EOLhyphen"/>ming and ſlaying all who would not ſide, and turne to their <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <pb n="6" facs="tcp:111740:5"/>
+            <p>They have gotten poſſeſſion, and footing of the ptime &amp; hiefe Citie of the Land, but as yet they doe not ex<g ref="char:EOLhyphen"/>cerciſe their accuſtomed cruelty to the Inhabitants with<g ref="char:EOLhyphen"/>in the walles, but onely to thoſe who live in the ſubburds, they are very exquiſite in their Torments unto the poore Proteſtants, and one unparaleld peece of cruelty, I can<g ref="char:EOLhyphen"/>not omit, the like of which, was never read of in all thoſe bloody perſecutions, under which the proteſtants did groane, in all former Ages. The Relation was made by one Maſter Georg <hi>Iackſon,</hi> a ſpectator of this inhumane and bar<g ref="char:EOLhyphen"/>barous cruelty, they uſe divers and ſtrange tortures againſt them, but this is moſt remarkeable becauſe it wants an ex<g ref="char:EOLhyphen"/>ample, It was after this manner. Having conquered theſe (as they call them) Heretiques, and now taken them cap<g ref="char:EOLhyphen"/>tives, they moſt cruelly makes holes in their bellies, cutting away the skine, ſo that their entrailes may be ſeene, and laid hold of, then they faſten a Lute or Violl ſtring unto the umbelick or Navill gut, letting them remaine thus a while, without any further Torture, after ſome ſmall ſpace, they with whipps, and goades, force them forward, one holding by the ſtring which is faſtned to the Navill, in this bloody manner they compell them forward, untill they have drawen forth all their entralls. And by this meanes have forced them to a moſt wretched and miſerable end, nor doth their mallice ſtay heere, but even triumphs over their dead bodyes, and after a moſt Impious manner Lacerate and diſmember their Butchered Trunkes, endeavouring (if-it were poſible) to to make their bodyes as Infamous as their Crvelties, theſe are thoſe perſecutions which the pro<g ref="char:EOLhyphen"/>feſſors of the True Goſpell of Chriſt, ſuffer for the teſtimo<g ref="char:EOLhyphen"/>ny of a good conſcience, and a good cauſe, which the Lord in his good time, turne to his glory, their eternall comfort, and to the confuſion of their blood-thirſty enemies.</p>
+            <trailer>FJNIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
